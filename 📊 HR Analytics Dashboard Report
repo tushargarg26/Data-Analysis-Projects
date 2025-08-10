@@ -1,0 +1,16 @@
+📊 HR Analytics Dashboard – Understanding Employee Attrition 🚀
+
+In this project, I analyzed HR data from Kaggle to uncover key insights into employee attrition and workforce trends!
+
+This interactive dashboard provides a data-driven approach to understanding employee turnover and optimizing retention strategies. Some key insights include:
+
+✅ Overall Attrition Rate: 📉 16.1% with 237 employees leaving from a total workforce of 1,470.
+✅ Demographic Analysis: 👥 The 26-35 age group experiences the highest attrition (116 employees), indicating career shifts or job dissatisfaction.
+✅ Attrition by Salary: 💰 Employees earning up to $5K show the highest turnover (163 employees), highlighting potential salary dissatisfaction.
+✅ Job Role Insights: 🏢 Laboratory Technicians (62), Sales Executives (57), and Research Scientists (47) have the highest attrition, pointing to possible workload or career growth concerns.
+✅ Tenure-Based Analysis: ⏳ The highest attrition occurs within the first year (59 employees) and at the 10-year mark (18 employees), reflecting early-stage disengagement and long-term career stagnation.
+✅ Gender-Based Attrition: 🔍 Male employees (150) show a higher attrition rate compared to female employees (87).
+
+By leveraging Power BI’s data visualization and analytical capabilities, this dashboard helps HR teams make data-driven decisions, identify attrition trends, and improve employee engagement and retention strategies.
+
+Database Link- https://drive.google.com/file/d/1OzT_VxYFOx841tcqHWylauaKOUKSdaU2/view?usp=sharing
